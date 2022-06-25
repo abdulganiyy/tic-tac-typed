@@ -1,0 +1,24 @@
+.square{
+    display: inline-block;
+    width: 100%;
+    height: 100%;
+    background-color: #1F3641;
+    background: #1F3641;
+    box-shadow: inset 0px -8px 0px #10212A;
+    border-radius: 15px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    text-align: center;
+    font-weight: bold;
+}
+
+.square--O{
+   color: #ffc860;
+   font-size: 72px;
+}
+
+.square--X{
+    color: #65e9e4;
+    font-size: 72px;
+}
